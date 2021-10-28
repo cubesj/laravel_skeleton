@@ -1,6 +1,6 @@
 
 
-## About Laravel skeleton
+## About Laravel v8.68.1 skeleton
 
 This is a skeleton project built in laravel with sanctum for authentication.
 
